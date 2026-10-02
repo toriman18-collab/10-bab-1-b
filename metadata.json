@@ -1,0 +1,6 @@
+{
+  "name": "PancasilaEdu - Dinamika Kelahiran Pancasila",
+  "description": "Media Pembelajaran Interaktif Pendidikan Pancasila Kelas X Fase E materi Dinamika Kelahiran Pancasila berbasis Web App Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
